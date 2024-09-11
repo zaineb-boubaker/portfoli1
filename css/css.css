@@ -1,0 +1,27 @@
+#navbar {
+  font-style: unset;
+  background-color: rgb(0, 225, 255);
+  font-style: black;
+  /* height: 60px; */
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  /* margin-top: 10px; */
+}
+
+.test a {
+  color: rgb(63, 25, 114);
+  background-color: rgb(13, 18, 99);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 80px;
+  justify-content: center;
+  align-items: center;
+padding-bottom:10px ;
+
+
+
+}
+
+
+
